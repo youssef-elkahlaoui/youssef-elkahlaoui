@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @youssef-elkahlaoui
-- 👀 I’m interested in IT for sure hhh
+- 👀 I’m interested in IT for sure
 - 🌱 I’m currently learning AI, digital transformation, web development....
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me : youssefelkahlaoui18@gmail.com
+- 📫 How to reach me : youssef.elkahlaoui.dev@gmail.com
 
 <!---
 youssef-elkahlaoui/youssef-elkahlaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
