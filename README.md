@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssef-elkahlaoui
 - 👀 I’m interested in IT for sure
-- 🌱 I’m currently learning AI, digital transformation, web development....
+- 🌱 I’m currently learning AI, digital transformation, Software development....
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me : youssef.elkahlaoui.dev@gmail.com || or My LinkedIn : https://www.linkedin.com/in/youssef-el-kahlaoui-274452264/
 <!---
