@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Youssef El Kahlaoui  
 
 🎓 **Engineering student in AI & Digital Transformation**  
-💻 Passionate about **Machine Learning, Software Development, and MLOps**  
+💻 Passionate about **AI & Machine Learning, Software Development, and DevOps**  
 🚀 Always building, learning, and experimenting with new technologies  
 
 ---
