@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @youssef-elkahlaoui
-- 👀 I’m interested in IT for sure
-- 🌱 I’m currently learning AI, digital transformation, Software development....
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me : youssef.elkahlaoui.dev@gmail.com || or My LinkedIn : https://www.linkedin.com/in/youssef-el-kahlaoui-274452264/
-<!---
-youssef-elkahlaoui/youssef-elkahlaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey there, I'm Youssef El Kahlaoui  
+
+🎓 **Engineering student in AI & Digital Transformation**  
+💻 Passionate about **Machine Learning, Software Development, and MLOps**  
+🚀 Always building, learning, and experimenting with new technologies  
+
+---
+
+## 👀 About Me  
+- 🔍 Interested in **AI, Data Engineering, Cloud, and Full-Stack Development**  
+- 🌱 Currently exploring **ML models, RAG systems, MLOps pipelines, DevOps tools, and Big Data**  
+- 🤝 Open to collaborating on **AI projects, web apps, and research ideas**  
+- 🧠 Love solving problems and bringing ideas to life  
+
+---
+
+## 📫 Reach Me  
+- 📧 Email: **youssef.elkahlaoui.dev@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/youssef-el-kahlaoui-274452264](https://www.linkedin.com/in/youssef-el-kahlaoui-274452264/)  
+- 🖥️ Portfolio: *coming soon* (or add your link here)
+
+---
+
+Thanks for stopping by! 🚀  
+Feel free to check out my projects and connect anytime.
